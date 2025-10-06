@@ -36,6 +36,7 @@
 *.exe
 *.out
 *.app
+player_test
 
 # debug information files
 *.dwo
